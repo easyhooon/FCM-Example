@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "328423768908",
+    "project_id": "fcmexample-5bb50",
+    "storage_bucket": "fcmexample-5bb50.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:328423768908:android:d85d78efe8817e655145e9",
+        "android_client_info": {
+          "package_name": "com.kenshi.fcmexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "328423768908-dpbfh2r4fnaitg162ucotp1mild1nelc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeNs_4iZgml6v9HAtQD85BzG-FdtME6rE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "328423768908-dpbfh2r4fnaitg162ucotp1mild1nelc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
